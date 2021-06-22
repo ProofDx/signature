@@ -1,0 +1,1 @@
+# ProofDx Signature Template for E-Mail
