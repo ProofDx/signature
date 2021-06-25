@@ -1,8 +1,7 @@
 # Setting Up Your Gmail Signature
 
 
-1. Downloard and find email-signature.html in your local folder.  
-2. Double click to open it. It should be automatically opened in your default browser. 
+1. Open email-signature.html in on a new tab in your browser.   
 3. If not opened in your browser, right click and select “open with” to open in a browser(i.e Google Chrome, Safari, Firefox, etc.)
     ![browser0](images/browser0.png)
 4. You should see a template like above in your browser. Select everything by using 
