@@ -1,9 +1,7 @@
 # Setting Up Your Gmail Signature
 
 
-1. Downloard and find email-signature.html in your local folder.  
-2. Double click to open it. It should be automatically opened in your default browser. 
-3. If not opened in your browser, right click and select “open with” to open in a browser(i.e Google Chrome, Safari, Firefox, etc.)
+1. Hold (windows)ctrl or (Mac) command⌘ to open [email-signature.html](https://htmlpreview.github.io/?https://github.com/ProofDx/signature/blob/gh-pages/email-signature.html) on a new tab in your browser.   
     ![browser0](images/browser0.png)
 4. You should see a template like above in your browser. Select everything by using 
     - If on windows : ctrl + a
