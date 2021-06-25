@@ -1,7 +1,7 @@
 # Setting Up Your Gmail Signature
 
 
-1. Hold (windows)ctrl or (Mac) command⌘ to open [email-signature.html](https://htmlpreview.github.io/?https://github.com/ProofDx/signature/blob/gh-pages/email-signature.html) on a new tab in your browser.   
+1. Hold (windows)Ctrl or (Mac)Command⌘ to open [email-signature.html](https://htmlpreview.github.io/?https://github.com/ProofDx/signature/blob/gh-pages/email-signature.html) on a new tab in your browser.   
     ![browser0](images/browser0.png)
 4. You should see a template like above in your browser. Select everything by using 
     - If on windows : ctrl + a
