@@ -3,3 +3,5 @@ description: Follow the instructions to set up your own GMail signature!
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-cayman
+github:
+  is_project_page: false
