@@ -4,8 +4,8 @@
 1. Hold Ctrl (Windows) or Command⌘ (Mac) to open [email-signature.html](https://htmlpreview.github.io/?https://github.com/ProofDx/signature/blob/gh-pages/email-signature.html) on a new tab in your browser.   
     ![browser0](images/browser0.png)
 4. You should see a template like above in your browser. Select everything by using 
-    - Windows: Ctrl + a
-    - Mac: Command⌘ + a
+    - Windows: Ctrl + A
+    - Mac: Command⌘ + A
     ![browser1](images/browser1.png)
 5. With everything selected, as shown above, copy it using Ctrl+C (Windows) or Cmd+C (Mac). 
 6. Go to Gmail Settings, and then find Signature![setting0](images/setting0.png)
