@@ -11,7 +11,7 @@
 6. Go to Gmail Settings, and then find Signature![setting0](images/setting0.png)
 7. Click Create new. You will be prompted to add a name for this signature. Enter `proof`
 8. Once finished, you will see a signature box, paste everything you copied from the template using Ctrl+V (Windows) or Command⌘+V (Mac). ![setting1](images/setting1.png)
-9. You can now edit the names, title, email address to your own like you would on a word document. The styling and formatting should remain the same. 
+9. You can now edit the name, title, email address, and phone number to your owm. Use your keyboard arrow keys to get to the section you wish to alter. The styling and formatting should remain the same.
 10. Below the editing box, you are presented with 2 options regarding when you would like your signature to appear. Please select your **proof** signature for whichever default options you prefer. The first adds the signature to any new E-Mail created; the latter adds it to any replies to an E-Mail thread.
 ![setting2](images/setting2.png)
 12. Check the box next to **Insert signature before quoted text in replies and remove the “–” line that precedes it.**
