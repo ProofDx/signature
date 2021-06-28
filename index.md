@@ -13,7 +13,8 @@ youtubeId: t57Jwsg_UWc
     ![browser1](images/browser1.png)
 5. With everything selected, as shown above, copy it using Ctrl+C (Windows) or Command⌘+C (Mac). 
 6. Go to Gmail Settings, and then find Signature![setting0](images/setting0.png)
-7. Watch this quick tutorial here. {% include youtubePlayer.html id=page.youtubeId %}
+7. Watch this quick tutorial here. 
+	{% include youtubePlayer.html id=page.youtubeId %}
 7. Click Create new. You will be prompted to add a name for this signature. Enter `proof`
 8. Once finished, you will see a signature box, paste everything you copied from the template using Ctrl+V (Windows) or Command⌘+V (Mac). ![setting1](images/setting1.png)
 9. You can now edit the name, title, email address, and phone number to your owm. Use your keyboard arrow keys to get to the section you wish to alter. The styling and formatting should remain the same.
