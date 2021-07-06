@@ -5,7 +5,7 @@ youtubeId: HGomWBcT5iw
 # Setting Up Your Gmail Signature
 
 
-1. Hold Ctrl (Windows) or Command⌘ (Mac) and click [email-signature.html](https://htmlpreview.github.io/?https://github.com/ProofDx/signature/blob/master/email-signature.html) to open it within a new tab in your browser.   
+1. Hold Ctrl (Windows) or Command⌘ (Mac) and click **[email-signature.html](https://htmlpreview.github.io/?https://github.com/ProofDx/signature/blob/master/email-signature.html)** to open it within a new tab in your browser.   
     ![browser0](images/browser0.png)
 2. You should see a template like above in your browser. Select everything by using 
     - Windows: Ctrl + A
@@ -22,3 +22,6 @@ youtubeId: HGomWBcT5iw
 10. Check the box next to **Insert signature before quoted text in replies and remove the “–” line that precedes it.**
 11. Save your changes by scrolling all the way down in the Settings and clicking **Save Changes**.
 12. When sending out an email, Gmail lets you select which signature. Select the above signature as default and all your emails will have the same signature. ![setting4](images/setting4.png)
+
+
+<script src="http://code.jquery.com/jquery-1.4.2.min.js"></script> <script> var x = document.getElementsByClassName("site-footer-credits"); setTimeout(() => { x[0].remove(); }, 10); </script>
